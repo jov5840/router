@@ -97,7 +97,7 @@ __webpack_require__.r(__webpack_exports__);
 
 "use strict";
 __webpack_require__.r(__webpack_exports__);
-/* harmony default export */ __webpack_exports__["default"] = ("<header>\n  <div class=\"container\">\n    <h1><a href=\"/\">logo</a></h1>\n    <nav>\n      <ul>\n        <li routerLinkActive=\"active\"><a routerLink=\"/main\">메인페이지</a></li>\n        <li routerLinkActive=\"active\"><a routerLink=\"/a\">a페이지</a></li>\n        <li routerLinkActive=\"active\"><a routerLink=\"/b\">b페이지</a></li>\n        <li routerLinkActive=\"active\"><a routerLink=\"/c\">c페이지</a></li>\n      </ul>\n    </nav>\n  </div>\n</header>");
+/* harmony default export */ __webpack_exports__["default"] = ("<header>\n  <div class=\"container\">\n    <h1><a routerLink=\"/\">logo</a></h1>\n    <nav>\n      <ul>\n        <li routerLinkActive=\"active\"><a routerLink=\"/main\">메인페이지</a></li>\n        <li routerLinkActive=\"active\"><a routerLink=\"/a\">a페이지</a></li>\n        <li routerLinkActive=\"active\"><a routerLink=\"/b\">b페이지</a></li>\n        <li routerLinkActive=\"active\"><a routerLink=\"/c\">c페이지</a></li>\n      </ul>\n    </nav>\n  </div>\n</header>");
 
 /***/ }),
 
